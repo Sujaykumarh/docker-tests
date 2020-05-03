@@ -4,21 +4,27 @@ This project is for testing docker fucntions and getting started
 
 ### Commands 
 
-1. test docker
+- test docker
 
         docker pull ubutntu:latest
 
         docker run --rm -it ubuntu bash
 
-2. build and run in detach mode
+- build and run in detach mode
 
         docker-compose up -d --build
 
-3. view images
+ - attach to running container
+
+        docker exec -it <container_id> <command>
+
+        command e.g: /bin/sh or /bin/bash
+
+- view images
 
         docker images
 
-4. view all docker process
+- view all docker process
 
         docker ps -al
       

@@ -43,6 +43,8 @@ This project is for testing docker fucntions and getting started
 
 ##### Learn
 
+- :star: [Docker Security](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
+
 - :clapper: [Docker Tutorial for Beginners -  KodeKloud](https://www.youtube.com/playlist?list=PL2We04F3Y_40PSZyTcOUuH4flMxbxkhDe)
 
 - :clapper: [Docker 101 & Workshop](https://youtu.be/smLgvYWr9iQ)
@@ -81,7 +83,7 @@ This project is for testing docker fucntions and getting started
 
 ##### How To
 
-- [How To Remove Docker Images, Containers, and Volumes](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
+- :wastebasket: [How To Remove Docker Images, Containers, and Volumes](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 
 - []()
 
@@ -89,6 +91,8 @@ This project is for testing docker fucntions and getting started
 <br>
 
 ##### Other links
+
+- :star: [Docker Security](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
 
 - :earth_asia: [Docker Hub](https://hub.docker.com/search?q=&type=image)
 

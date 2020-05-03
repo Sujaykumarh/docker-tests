@@ -1,0 +1,13 @@
+version: "3"
+
+
+services: 
+    web:
+        image: server2
+        build: src
+        command: python app.py
+        ports: 
+            - $WEBPORT:8080
+        volumes: 
+            - ./src:/src
+        
